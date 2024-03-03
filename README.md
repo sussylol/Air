@@ -10,7 +10,6 @@ We appreciate contributions. So if you want to support us, feel free to make cha
 
 1. **Download:**
     - Clone this repository: `git clone https://github.com/Fyxar/Air`
-    - Or download the latest release [here](https://github.com/Fyxar/Air/releases).
 
 2. **Installation:**
     - Do I really need to do this>?
